@@ -7,7 +7,7 @@ public class accountPageTest
 	@Test
 	public void accountPageTitleTest()
 	{
-		
+		System.out.println("asdadsad");
 	}
 
 }
